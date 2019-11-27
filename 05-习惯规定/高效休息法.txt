@@ -22,8 +22,3 @@ https://www.jianshu.com/p/440225adc85e
 6. 看他人不顺眼时——温柔的慈悲心
 7. 身体不适有痛感时——扫描全身法
 
-
-64362019112212474011993592477
-
-http://api8.xubei.com/xubei-pay-gateway/anon/pay/gateway/weixinpay/notify
-http://api8.xubei.com/xubei-pay-gateway/anon/pay/gateway/weixinpay/notify
